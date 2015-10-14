@@ -120,7 +120,7 @@ var App = React.createClass({
   }
 });
 
-React.render(<App/>, appElement);
+ReactDOM.render(<App/>, appElement);
 ```
 
 # Demos
